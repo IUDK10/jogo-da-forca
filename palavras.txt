@@ -1,0 +1,7 @@
+arroz
+feijão
+boi
+porco
+peixe
+galinha
+maionese
